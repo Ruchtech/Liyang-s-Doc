@@ -1,7 +1,7 @@
 site_name: LiyangWang's Docs
 site_url: https://mydomain.org/mysite
 theme:
-  name: Amelia
+  name: material
 
 nav:
 - Home: index.md
