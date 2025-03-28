@@ -2,3 +2,12 @@ site_name: LiyangWang's Docs
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+
+nav:
+- Home: index.md
+- User Guide:
+    - Writing your docs: user-guide/writing-your-docs.md
+    - Styling your docs: user-guide/styling-your-docs.md
+- About:
+    - License: about/license.md
+    - Release Notes: about/release-notes.md
