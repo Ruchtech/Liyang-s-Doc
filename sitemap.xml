@@ -4,4 +4,8 @@
          <loc>https://mydomain.org/mysite/</loc>
          <lastmod>2025-03-28</lastmod>
     </url>
+    <url>
+         <loc>https://mydomain.org/mysite/OpenJudge/Leecode/</loc>
+         <lastmod>2025-03-28</lastmod>
+    </url>
 </urlset>
